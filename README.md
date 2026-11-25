@@ -8,7 +8,7 @@ ready-to-use search query from the forms you tick.
 It uses no AI model: every form is looked up in open sources. With a free CiNii app ID, the app
 also shows how often each form occurs in CiNii Research, and ticks the forms that are actually used.
 
-**Use the app:** https://ACCOUNT.github.io/REPOSITORY/ *(replace with the real link once published)*
+**Use the app:** [https://ubvu.github.io/japanese-search-terms/](https://ubvu.github.io/japanese-search-terms/) *(replace with the real link once published)*
 
 ## For users
 
