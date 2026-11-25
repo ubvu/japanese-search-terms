@@ -32,7 +32,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install marimo (fixed version, so a new release cannot break the site unexpectedly)
-        run: pip install "marimo==0.25.2"
+        run: pip install "marimo==0.25.2" uv
 
       - name: Build the website
         run: |
